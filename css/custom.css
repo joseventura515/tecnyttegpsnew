@@ -1,0 +1,17 @@
+#map {
+    width: 100%;
+    height: 500px;
+}
+.btnPopup{
+    padding: 8px;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 0px;
+}
+.btnActive{
+    background-color: skyblue;
+}
+.content-table > div > .row > .col-3 {
+    box-sizing: unset !important;
+    font-size: 10px;
+}
